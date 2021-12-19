@@ -38,9 +38,3 @@
 - Automated generation of Library ID cards
 - Different types of subscriptions for users
 
-## Software Specifications
-|Backend|Frontend|
-|:---|:---|
-|Django (Python)|HTML|
-MySQL(Database)|CSS|
-|   |JS|
